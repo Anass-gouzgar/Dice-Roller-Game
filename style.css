@@ -37,3 +37,12 @@ input {
   border-radius: 10px;
   border: none;
 }
+
+#diceResult {
+  margin: 25px;
+}
+
+#diceImages img {
+  width: 150px;
+  margin: 5px;
+}
